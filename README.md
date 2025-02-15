@@ -26,6 +26,8 @@ This fork enhances the **Judge0 IDE** experience by integrating an **AI-powered 
 - **Multi-model AI selection** (Llama 3, Gemini 2.0, DeepSeek, and Qwen).
 - **Persistent API key storage** for seamless AI interactions.
 
+[![Judge0 IDE + AI Screenshot](./.github/new-AI.png.jpg)](https://ide.judge0.com)
+
 This feature is powered by the **OpenRouter API**, providing low-latency responses while maintaining a free-tier option.
 
 ---
@@ -36,8 +38,8 @@ You can run this **AI-enhanced Judge0 IDE** on your local machine by following t
 
 ```sh
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git https://github.com/ahmedbellaaj10/codex.git
+cd codex
 
 # Start a local server
 python3 -m http.server 8000
