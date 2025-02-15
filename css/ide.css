@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    min-height: 100%;
+    padding: 0;
+    background: url("../images/logo_black.svg") center center / 33% no-repeat #1b1c1d; /* Color from Semantic UI */
+}
+
+#judge0-site-navigation {
+    border-radius: 0;
+    border: none;
+    min-height: 3rem;
+}
+
+#judge0-header {
+    border-radius: 0;
+    padding: 0;
+}
+
+#judge0-logo {
+    width: 3rem;
+}
+
+.judge0-file-menu {
+    min-width: 9rem !important;
+}
+
+#judge0-status-line, .lm_tab {
+    font-family: "JetBrains Mono" !important;
+}
+
+#judge0-status-line:empty {
+    display: none;
+}
+
+.lm_tab {
+    box-shadow: none !important;
+}
+
+.judge0-hidden {
+    display: none !important;
+}
