@@ -61,9 +61,7 @@ Do you have a question, feature request, or something else on your mind? Or do y
 ---
 
 ## Author and Contributors
-Judge0 IDE was created by [Herman Zvonimir Došilović](https://github.com/hermanzdosilovic). This AI-enhanced version was developed by **[Your Name]**, building on top of the original IDE to provide AI-driven coding assistance.
-
-Thanks a lot to all [contributors](https://github.com/judge0/ide/graphs/contributors) for their contributions to this project.
+Judge0 IDE was created by [Herman Zvonimir Došilović](https://github.com/hermanzdosilovic). This AI-enhanced version was developed by **Ahmed Belaaj**, building on top of the original IDE to provide AI-driven coding assistance.
 
 ---
 
